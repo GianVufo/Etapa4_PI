@@ -49,7 +49,7 @@ class App extends Component {
 
           <Stack.Screen name="O que é CIDR ?" component={CIDRScreen} />
 
-          <Stack.Screen name="O que é cálculo de sub-rede ?" component={SubCalcScreen} />
+          <Stack.Screen name="O que é uma sub-rede ?" component={SubCalcScreen} />
 
         </Stack.Navigator>
 
