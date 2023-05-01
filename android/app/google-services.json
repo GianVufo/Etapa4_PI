@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "828247507175",
+    "project_id": "ipv4subnetcalculator",
+    "storage_bucket": "ipv4subnetcalculator.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:828247507175:android:8f76f474b38ff3c0002242",
+        "android_client_info": {
+          "package_name": "com.ipv4_subnet_calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "828247507175-ddhn08imrjqc42t37tt7q86gv10uc95k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDOGbL_IN_dvTk-vTyP3ly-jFF0XNnlEXk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "828247507175-ddhn08imrjqc42t37tt7q86gv10uc95k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
